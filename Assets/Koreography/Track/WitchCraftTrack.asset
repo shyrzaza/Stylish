@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: WitchCraftTrack
+  m_EditorClassIdentifier: 
+  mEventID: WitchCraftT
+  mEventList:
+  - mStartSample: 40131
+    mEndSample: 40131
+  - mStartSample: 55301
+    mEndSample: 55301
+  - mStartSample: 70516
+    mEndSample: 70516
+  - mStartSample: 100945
+    mEndSample: 100945
+  - mStartSample: 176973
+    mEndSample: 176973
+  - mStartSample: 211198
+    mEndSample: 211198
+  - mStartSample: 226405
+    mEndSample: 226405
+  - mStartSample: 241612
+    mEndSample: 241612
+  - mStartSample: 256819
+    mEndSample: 256819
+  - mStartSample: 272026
+    mEndSample: 272026
+  - mStartSample: 287233
+    mEndSample: 287233
+  - mStartSample: 302440
+    mEndSample: 302440
+  - mStartSample: 317647
+    mEndSample: 317647
+  - mStartSample: 332854
+    mEndSample: 332854
+  - mStartSample: 348060
+    mEndSample: 348060
+  - mStartSample: 363267
+    mEndSample: 363267
+  - mStartSample: 378474
+    mEndSample: 378474
+  - mStartSample: 393681
+    mEndSample: 393681
+  - mStartSample: 408888
+    mEndSample: 408888
+  - mStartSample: 424095
+    mEndSample: 424095
+  - mStartSample: 439302
+    mEndSample: 439302
+  - mStartSample: 454509
+    mEndSample: 454509
+  - mStartSample: 469716
+    mEndSample: 469716
+  - mStartSample: 484923
+    mEndSample: 484923
+  - mStartSample: 500129
+    mEndSample: 500129
+  - mStartSample: 515336
+    mEndSample: 515336
+  - mStartSample: 530543
+    mEndSample: 530543
+  - mStartSample: 545750
+    mEndSample: 545750
+  - mStartSample: 560957
+    mEndSample: 560957
+  - mStartSample: 576164
+    mEndSample: 576164
+  - mStartSample: 591371
+    mEndSample: 591371
+  - mStartSample: 606578
+    mEndSample: 606578
+  - mStartSample: 621785
+    mEndSample: 621785
+  - mStartSample: 636991
+    mEndSample: 636991
+  - mStartSample: 652198
+    mEndSample: 652198
+  - mStartSample: 667405
+    mEndSample: 667405
+  - mStartSample: 682612
+    mEndSample: 682612
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 
