@@ -108,14 +108,16 @@ public class RhythmLaneController : MonoBehaviour {
 			}
 
 			//TODO DEBUG HITSOUND
-			if(n.percentage >= 1)
+			
+			if(n.percentage >= 0.97f)
 			{
 				if(!n.dirty)
 				{
 					n.dirty = true;
 					audioSource.Play();
 				}
-			}
+			}		
+			 
 			
 		}
 		if(notes[0].percentage > missPercentage)
@@ -150,6 +152,7 @@ public class RhythmLaneController : MonoBehaviour {
 			GameObject.Destroy(todelete.circleObject);
 			GameObject.Destroy(todelete.gameObect);
 			Debug.Log("p" + todelete.percentage);
+			audioSource.Play();
 		}
 		else
 		{

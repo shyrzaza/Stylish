@@ -28,7 +28,7 @@ public class TestEventSubscriber : MonoBehaviour {
 
 	void FireEventDebugLog(KoreographyEvent koreoEvent)
 	{
-		Debug.Log("Koreography Event Fired.");
+		//Debug.Log("Koreography Event Fired.");
 		if(switchBool)
 		{
 			renderer.material = m1;
